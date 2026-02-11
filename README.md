@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # ¡Hola! Soy Martín Sánchez 🚀<br>**Ingeniero de Software en formación | Buscando Prácticas Profesionales | AI Enthusiast**<br><br> Actualmente curso mi último año de Ingeniería de Software. 
 Me apasiona construir sistemas escalables y soluciones inteligentes que resuelven problemas reales. 
 Mi enfoque combina la robustez del desarrollo **Backend (.NET/Node.js/Java)** con la agilidad de la **IA Generativa** para optimizar procesos de ingeniería.<br><br>### 
